@@ -15,12 +15,12 @@ module.exports = {
         title: {
             type: 'string',
             required: true,
-            label: 'Input your presentation topic'
+            label: 'Input your presentation topic: '
         },
 
         speaker: {
             type: 'string',
-            label: 'Speaker Name',
+            label: 'Input your name: ',
             default: '{{username}}'
         }
     }
