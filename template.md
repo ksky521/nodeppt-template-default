@@ -7,6 +7,6 @@ plugins:
 
 # {{title}} {.text-landing.text-shadow}
 
-By {{username}} {.text-intro}
+By {{speaker}} {.text-intro}
 
 [:fa-github: Github](https://github.com/ksky521/nodeppt){.button.ghost}
